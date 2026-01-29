@@ -2,11 +2,18 @@
 
 ### Обо мне
 Я — начинающий тестировщик с сильной мотивацией и практическим портфолио. Хотя у меня пока нет коммерческого опыта. Умение быстро адаптироваться новым задачам, внимательность к деталям и организованность, что я считаю фундаментом для качественного тестирования. Я коммуникабельна и надежна, поэтому легко вольюсь в команду и смогу стать ее полноценным звеном, на которого можно положиться.
----
+  ___
 ### Contact me
 <div>
- <img src=" lizaveta.d.2498@gmail.com
----
+  <div id="badges">
+     <img src="https://github.com/user-attachments/assets/cd45bb04-5a41-4746-b384-27c0e43e80a5" width="40" height="40" alt="Gmail" />  lizaveta.d.2498@gmail.com
+  <a href="https://t.me/@Eliza-Dzi" target="_blank">
+   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
+ </div>
+ 
+  ___
 ### Skills
 <div>
 <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
