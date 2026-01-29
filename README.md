@@ -11,7 +11,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
  <img src="https://github.com/user-attachments/assets/a840cd24-5161-47d7-ae39-7ae33a863f69" 
  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/ff3a8c55-811c-4cfa-84f2-504bb957de19" />
- <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/bad436b6-ab28-4ec6-afd8-a4edfbecc1c9" />
-
-</div>
-Manual testing, Functional Testing ,API ,Quality Control, 
+ <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/bad436b6-ab28-4ec6-afd8-a4edfbecc1c9" />
+<img width="55" height="55" alt="Image" src="https://github.com/user-attachments/assets/e3a157b1-e5e5-4e57-9426-7653aefcc88d" />
+<img width="90" height="90" alt="Image" src="https://github.com/user-attachments/assets/b0a6ebf9-ba84-4426-99ff-52158083812b"/>
+<img width="45" height="45" alt="Image" src="https://github.com/user-attachments/assets/d4d8fdbe-71e4-4f2d-b176-37cdaf3ebe6d"/>
+ <img width="76" height="66" alt="Image"src="https://github.com/user-attachments/assets/0cc04728-a1fc-4adb-8af9-8b02f7ef2af4" />
+ </div>
