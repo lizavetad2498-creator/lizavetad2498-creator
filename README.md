@@ -14,4 +14,4 @@
  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/ff3a8c55-811c-4cfa-84f2-504bb957de19" />
 </div>
 </div>
-Manual testing,HTML,Functional Testing,White box testing,Grey box testing,Black box testing,API,Quality Control,HTTP
+Manual testing, HTML, Functional Testing ,API ,Quality Control, HTTP
