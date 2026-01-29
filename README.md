@@ -12,6 +12,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
  <img src="https://github.com/user-attachments/assets/a840cd24-5161-47d7-ae39-7ae33a863f69" 
  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/ff3a8c55-811c-4cfa-84f2-504bb957de19" />
-
 </div>
-
+</div>
+Manual testing,HTML,Functional Testing,White box testing,Grey box testing,Black box testing,API,Quality Control,HTTP
